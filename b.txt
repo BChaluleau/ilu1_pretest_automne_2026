@@ -1,2 +1,3 @@
 Un nouveau fichier, créé par Bob.
+Modification par Alice.
 Une modification par Bob.
